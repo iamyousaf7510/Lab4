@@ -1,2 +1,3 @@
 cout<<"sum of two number"<<a+b<<endl;
 cout<<"subtract two numbers."<<a-b<<endl;
+cout<<"product two numbers"<<a*b<<endl;
